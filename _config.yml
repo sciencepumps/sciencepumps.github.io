@@ -1,0 +1,28 @@
+name: Science Pumps 
+description: High-Entropy Science
+avatar:
+footer-links:
+  email:
+  github: sciencepumps
+google_analytics: 
+url: https://sciencepumps.github.io/
+baseurl: ""
+permalink: /:title/
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+sass:
+  style: :compressed
+gems:
+    - jekyll-sitemap
+    - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+keep_files: [images]
