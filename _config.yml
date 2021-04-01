@@ -1,6 +1,6 @@
-name: Science Pumps 
-description: High-Entropy Science
-avatar:
+name: High-Entropy Science 
+description:  
+avatar: "/images/hhs.svg"
 footer-links:
   email:
   github: sciencepumps

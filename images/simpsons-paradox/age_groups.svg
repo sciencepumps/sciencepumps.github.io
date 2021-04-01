@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="358px" height="272px" viewBox="0 0 358 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>age_groups</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="age_groups" transform="translate(0.000000, 2.000000)">
+            <g id="graph">
+                <path id="Line" d="M35.5,0 L40,9 L36,9 L36,262 L35,262 L35,9 L31,9 L35.5,0 Z" fill="#979797" fill-rule="nonzero"></path>
+                <path id="Line-2" d="M347,238 L356,242.5 L347,247 L347,243 L16,243 L16,242 L347,242 L347,238 Z" fill="#979797" fill-rule="nonzero"></path>
+                <text id="Sunniness" font-family="STIXGeneral-Regular, STIXGeneral" font-size="20" font-weight="normal" letter-spacing="-0.4" fill="#000000">
+                    <tspan x="154" y="261">Sunniness</tspan>
+                </text>
+                <text id="Happiness" transform="translate(15.500000, 104.500000) rotate(-90.000000) translate(-15.500000, -104.500000) " font-family="STIXGeneral-Regular, STIXGeneral" font-size="20" font-weight="normal" letter-spacing="-0.4" fill="#000000">
+                    <tspan x="-24.5" y="110.5">Happiness</tspan>
+                </text>
+                <line x1="186.5" y1="242.5" x2="186.5" y2="0.5" id="Line-3" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="35.5" y1="122.5" x2="355.5" y2="122.5" id="Line-4" stroke="#979797" stroke-linecap="square"></line>
+            </g>
+            <g id="old" transform="translate(165.000000, 71.000000)" fill="#FDA1A1">
+                <circle id="Oval" cx="97" cy="5" r="5"></circle>
+                <circle id="Oval" cx="113" cy="100" r="5"></circle>
+                <circle id="Oval" cx="97" cy="75" r="5"></circle>
+                <circle id="Oval" cx="49" cy="96" r="5"></circle>
+                <circle id="Oval" cx="8" cy="115" r="5"></circle>
+                <circle id="Oval" cx="15" cy="130" r="5"></circle>
+                <circle id="Oval" cx="76" cy="120" r="5"></circle>
+                <circle id="Oval" cx="5" cy="79" r="5"></circle>
+                <circle id="Oval" cx="144" cy="71" r="5"></circle>
+                <circle id="Oval" cx="70" cy="74" r="5"></circle>
+                <circle id="Oval" cx="60" cy="40" r="5"></circle>
+                <circle id="Oval" cx="126" cy="40" r="5"></circle>
+                <circle id="Oval" cx="159" cy="19" r="5"></circle>
+            </g>
+            <g id="young" transform="translate(64.000000, 21.000000)" fill="#99CDDA">
+                <circle id="Oval" cx="54" cy="84" r="5"></circle>
+                <circle id="Oval" cx="54" cy="53" r="5"></circle>
+                <circle id="Oval" cx="99" cy="33" r="5"></circle>
+                <circle id="Oval" cx="116" cy="69" r="5"></circle>
+                <circle id="Oval" cx="100" cy="55" r="5"></circle>
+                <circle id="Oval" cx="149" cy="109" r="5"></circle>
+                <circle id="Oval" cx="145" cy="38" r="5"></circle>
+                <circle id="Oval" cx="167" cy="46" r="5"></circle>
+                <circle id="Oval" cx="135" cy="5" r="5"></circle>
+                <circle id="Oval" cx="73" cy="22" r="5"></circle>
+                <circle id="Oval" cx="16" cy="48" r="5"></circle>
+                <circle id="Oval" cx="5" cy="92" r="5"></circle>
+                <circle id="Oval" cx="75" cy="126" r="5"></circle>
+                <circle id="Oval" cx="61" cy="134" r="5"></circle>
+                <circle id="Oval" cx="110" cy="113" r="5"></circle>
+                <circle id="Oval" cx="34" cy="118" r="5"></circle>
+            </g>
+            <g id="legend" transform="translate(261.000000, 0.000000)">
+                <circle id="Oval" fill="#FDA1A1" cx="15" cy="29" r="5"></circle>
+                <circle id="Oval" fill="#99CDDA" cx="15" cy="11" r="5"></circle>
+                <text id="Under-60" font-family="STIXGeneral-Regular, STIXGeneral" font-size="16" font-weight="normal" letter-spacing="-0.32" fill="#000000">
+                    <tspan x="25" y="17">Under 60</tspan>
+                </text>
+                <text id="Over-60" font-family="STIXGeneral-Regular, STIXGeneral" font-size="16" font-weight="normal" letter-spacing="-0.32" fill="#000000">
+                    <tspan x="26" y="34">Over 60</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" x="0.5" y="2.5" width="91" height="37"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
